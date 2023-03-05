@@ -6,7 +6,7 @@ require (
 	github.com/containerd/containerd v1.6.19
 	github.com/containernetworking/cni v1.1.2
 	github.com/containers/common v0.51.1-0.20230228180151-18c4568e8ee0
-	github.com/containers/image/v5 v5.24.3-0.20230228100948-357cacd18f3d
+	github.com/containers/image/v5 4c651fa1a331
 	github.com/containers/ocicrypt v1.1.7
 	github.com/containers/storage v1.45.5-0.20230228091016-4f0adb63ba4a
 	github.com/cyphar/filepath-securejoin v0.2.3
